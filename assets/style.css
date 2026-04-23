@@ -389,7 +389,7 @@ tbody tr:last-child td { border-bottom: none; }
 .project-links a:hover { background: #2ab4a0; color: #fff; }
 .project-card .project-image {
   height: 220px;
-  margin: -22px -22px 18px -22px;
+  margin: 18px -22px -22px -22px;
 }
 .project-card .project-image img {
   width: 100%;
